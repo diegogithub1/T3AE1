@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 diegpo sanchez user 2
+=======
+diegpo sanchez user1
+>>>>>>> origin/master
